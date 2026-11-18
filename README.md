@@ -2,10 +2,10 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/docfgp-latin)](https://pypi.org/project/docfgp-latin/)
 [![PyPI downloads](https://img.shields.io/pepy/dt/docfgp-latin)](https://pepy.tech/projects/docfgp-latin)
-[![CI](https://github.com/iamzices/docfgp-document-fingerprint-latin/actions/workflows/ci.yml/badge.svg)](https://github.com/iamzices/docfgp-document-fingerprint-latin/actions/workflows/ci.yml)
-[![License: Apache-2.0](https://img.shields.io/github/license/iamzices/docfgp-document-fingerprint-latin)](LICENSE)
+[![CI](https://github.com/docfgp/docfgp-latin/actions/workflows/ci.yml/badge.svg)](https://github.com/docfgp/docfgp-latin/actions/workflows/ci.yml)
+[![License: Apache-2.0](https://img.shields.io/github/license/docfgp/docfgp-latin)](LICENSE)
 
-DocFGP Latin provides the [tessdata_fast](https://github.com/tesseract-ocr/tessdata_fast) Tesseract models that let [DocFGP](https://github.com/iamzices/docfgp-document-fingerprint) OCR the Latin script.
+DocFGP Latin provides the [tessdata_fast](https://github.com/tesseract-ocr/tessdata_fast) Tesseract models that let [DocFGP](https://github.com/docfgp/docfgp) OCR the Latin script.
 
 ## Requirements
 
